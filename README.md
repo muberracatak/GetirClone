@@ -2,6 +2,7 @@
 
 ## This project build with React Native CLI.
 
-<img width="100" alt="Screenshot 2023-02-17 at 16 42 00" src="https://user-images.githubusercontent.com/55498680/220182997-a39eb1c4-1cbc-4c76-9f11-b4b8d1882271.png">
-<img width="100" alt="Screenshot 2023-02-17 at 16 42 10" src="https://user-images.githubusercontent.com/55498680/220183005-d0841f9f-5741-40cf-9f18-c09981bb5b6d.png">
-<img width="100" alt="Screenshot 2023-02-17 at 16 42 35" src="https://user-images.githubusercontent.com/55498680/220183010-6f843ae3-468d-489a-885c-867449b8e15a.png">
+![Simulator Screen Shot - iPhone 14 - 2023-02-20 at 22 04 05](https://user-images.githubusercontent.com/55498680/220183120-7881f42f-4585-47ea-b4fb-cf1a1c7d6574.png)
+![Simulator Screen Shot - iPhone 14 - 2023-02-20 at 22 04 21](https://user-images.githubusercontent.com/55498680/220183123-c86d07bf-6c90-4064-8845-fc0e5ef6c776.png)
+![Simulator Screen Shot - iPhone 14 - 2023-02-20 at 22 04 32](https://user-images.githubusercontent.com/55498680/220183125-dc18ea5b-6ec2-464c-8356-7c31ef8beb6b.png)
+![Simulator Screen Shot - iPhone 14 - 2023-02-20 at 22 04 44](https://user-images.githubusercontent.com/55498680/220183131-a267b90d-193d-426f-9ac5-9419228c9cab.png)
